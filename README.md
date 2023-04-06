@@ -21,6 +21,6 @@ For each assignment,
 ## Details
 Course Assignments for Data Mining (CSE506) 
 Instructor : Dr. Vikram Goyal
-Group Members : (Ananya Kansal)[https://github.com/Ananya-Kan], (Avishi Gupta)[https://github.com/avgupt], (Jahnvi Kumari)[https://github.com/Jahnvi13], (Manvi Goel)[https://github.com/ManviGoel26], (Prachi Goyal)[]
+Group Members : [Ananya Kansal](https://github.com/Ananya-Kan), [Avishi Gupta](https://github.com/avgupt), [Jahnvi Kumari](https://github.com/Jahnvi13), [Manvi Goel](https://github.com/ManviGoel26), [Prachi Goyal]()
 
 
